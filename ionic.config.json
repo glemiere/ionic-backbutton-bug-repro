@@ -1,0 +1,7 @@
+{
+  "name": "backbutton-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
